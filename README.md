@@ -15,3 +15,7 @@ Assume the input is a circular linked list with N nodes and each node has a numb
 (range 1 to N) associated with it. The head node has number 1 as data.
 
 - **Note:** The program is written for 't' test cases where 't' is entered by the user.
+
+## **Tools**
+- Visual Studio Code
+- GNU GCC v11.2.0 compiler
